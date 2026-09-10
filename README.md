@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Quinn (@quinncode447) 👋
 
-<!--
-**quinncode447/quinncode447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst based in Dublin. Most days I turn tangled relational data into clean dashboards and automated reports. Outside work, I tinker with local-first data pipelines and fast query engines.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Testing DuckDB patterns to replace heavy analytical queries locally.
+- Writing small Python scripts to clean and visualize public transit data.
+- Polishing SQL queries and learning dbt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech & Tools
+- **Languages:** Python, SQL, Bash
+- **Data Stack:** Pandas, NumPy, DuckDB, PostgreSQL, SQLite
+- **Environment:** JupyterLab, VS Code, Git
+
+#### Get in touch
+- LinkedIn: [linkedin.com/in/quinn-analyst](https://linkedin.com)
+- Email: `quinncode447 [at] proton.me`
